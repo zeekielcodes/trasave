@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](./src/assets/screenshot.png)
+![](./images/screenshot.png)
 
 ### Link
 
