@@ -16,5 +16,5 @@
 
 ## Author
 
-- Portfolio - [Ezekiel The Face](https://thefacecodes.web.app)
-- Twitter - [@thefacecodes](https://www.twitter.com/thefacecodes)
+- Portfolio - [Ezekiel The Face](https://zeekcodes.web.app)
+- Twitter - [@zeekcodes](https://www.twitter.com/zeekcodes)
